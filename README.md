@@ -1,2 +1,0 @@
-# cyber2
-assignment
